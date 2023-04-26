@@ -1,0 +1,279 @@
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
+
+local args = {
+    [1] = "MerchantAU",
+    [2] = "Option3"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyItem"):FireServer(unpack(args))
